@@ -1,0 +1,14 @@
+.home{
+    height: 100vh;
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(247, 243, 239);
+}
+.home h1{
+    padding-bottom: 1rem;
+    font-size: 2.3rem;
+}
+.home p{
+    text-align: center;
+
+}
